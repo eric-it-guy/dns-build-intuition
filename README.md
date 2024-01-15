@@ -22,32 +22,25 @@ Using the Active Directory we created in the previous lab, we connect/log into D
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
+Create DNS A-Record on DC-1 for "mainframe" <br/>
+<img src="./img/A_record.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
+Ping "mainframe" Client-1  <br/>
+<img src="./img/ping.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
+Ping "mainframe" again <br/>
+<img src="./img/ping_again.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
+Observe local DNS cache and flush DNS cache <br/>
+<img src="./img/ipconfig.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
+ping "search" and nslookup  <br/>
+<img src="./img/ping_search.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 </p>
 
 <!--
