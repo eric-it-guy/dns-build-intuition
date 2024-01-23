@@ -23,23 +23,23 @@ Using the Active Directory we created in the previous lab, we connect/log into D
 
 <p align="center">
 Create DNS A-Record on DC-1 for "mainframe" <br/>
-<!-- <img src="./img/A_record.png" height="80%" width="80%" alt="DNS - Building Intuition"/> -->
+<img src="./img/A_record.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
 Ping "mainframe" Client-1  <br/>
-<!-- <img src="./img/ping.png" height="80%" width="80%" alt="DNS - Building Intuition"/> -->
+<img src="./img/ping.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
 Ping "mainframe" again <br/>
-<!-- <img src="./img/ping_again.png" height="80%" width="80%" alt="DNS - Building Intuition"/> -->
+<img src="./img/ping_again.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
 Observe local DNS cache and flush DNS cache <br/>
-<!-- <img src="./img/ipconfig.png" height="80%" width="80%" alt="DNS - Building Intuition"/> -->
+<img src="./img/ipconfig.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 <br />
 ping "search" and nslookup  <br/>
-<!-- <img src="./img/ping_search.png" height="80%" width="80%" alt="DNS - Building Intuition"/> -->
+<img src="./img/ping_search.png" height="80%" width="80%" alt="DNS - Building Intuition"/>
 <br />
 </p>
 
